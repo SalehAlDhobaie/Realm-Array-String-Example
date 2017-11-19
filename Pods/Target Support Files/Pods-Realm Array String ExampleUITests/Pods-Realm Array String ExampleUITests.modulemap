@@ -1,0 +1,6 @@
+framework module Pods_Realm_Array_String_ExampleUITests {
+  umbrella header "Pods-Realm Array String ExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
